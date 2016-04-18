@@ -1,4 +1,4 @@
 #!/bin/sh
 # TEST
-echo "TEST"
+echo "Badger Badger Badger Badger Badger"
 
