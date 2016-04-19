@@ -1,2 +1,2 @@
 # badger
-Test repository for git training
+Test repository for git training innit.
